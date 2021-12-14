@@ -7,11 +7,11 @@
 
 Schedule:
 
-Period 1: Chemistry
-Period 2: English
-Period 3: Gym
-Period 4: SEP10
-Period 5: Math
-Period 6: Lunch
-Period 7: Global history
-Period 8: Big History
+Period 1: Chemistry <br>
+Period 2: English <br>
+Period 3: Gym <br>
+Period 4: SEP10 <br>
+Period 5: Math <br>
+Period 6: Lunch <br>
+Period 7: Global history <br>
+Period 8: Big History <br>
