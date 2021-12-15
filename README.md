@@ -14,4 +14,4 @@ Period 4: SEP10 <br>
 Period 5: Math <br>
 Period 6: Lunch <br>
 Period 7: Global history <br>
-Period 8: Big History <br>
+Period 8: BHP<br>
