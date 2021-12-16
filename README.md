@@ -1,12 +1,25 @@
 # **about-me**
 
-### Things about me
+---
+
+### Things about me:
 
 1) My name is Yala Huang.
 2) I was born on July 13, 2006.
 3) I go to _High School of Telecommunication Arts and Technology_.
 4) My school email is yalah5084@hstat.org.
-5) I love cats, dogs and lasagna.
+
+---
+
+### Things I love:
+
+* Cats
+* Dogs 
+* Lasagna
+* Seaweed
+* Volleyabll
+
+---
 
 ### Schedule:
 
