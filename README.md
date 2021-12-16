@@ -20,6 +20,7 @@
   * Especially Venezuelan lasagna
 * Seaweed
 * Volleyabll
+* Sleep
 
 ---
 
@@ -33,6 +34,4 @@
 **Period 6**: Lunch  
 **Period 7**: Global history  
 **Period 8**: BHP  
-
-kd
 
